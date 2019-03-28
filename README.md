@@ -1,3 +1,3 @@
 # CS350
-Spring 2019 @ Binghamton University \n 
+Spring 2019 @ Binghamton University 
 Professor Michael J Lewis
